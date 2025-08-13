@@ -1,0 +1,6 @@
+complaint_id,doc_type,received_date,department_name,amount,merchant_id,complaint_text
+C-01,customer complaint letter,2025-7-31,Ops,$12.99,m-001,"Customer claims unauthorized charge for TXN-1001 on 07/30/25."
+C-02,merchant dispute form,31/07/2025,Operations,"50,00",M002,"Dispute references transaction 1002 from 31 July 2025."
+C-03,loan agreement addendum,"Aug 1, 2025",ops dept.,25.99 USD,"M-003","Increase in interest after TXN 1003. Date: 2025/08/01."
+C-04,internal audit memo,2025/08/01,O P S,10.0,m-004,"Audit mentions related activity: txn-1004; verify docs."
+C-05,customer complaint letter,08-02-25,Operations Team,"9,99$",M-005,"Double charge on #1005. Timestamp 08/02/25 22:01."
